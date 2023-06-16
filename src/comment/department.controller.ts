@@ -32,7 +32,7 @@ export class DepartmentController {
     return { id: generatedId};
   }
 
-  @Get('Get all Departments')
+  @Get()
   getAllDepartment(): Department[] {
     return this.departmentService.getDepartment();
   }
