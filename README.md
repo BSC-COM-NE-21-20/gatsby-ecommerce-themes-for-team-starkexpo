@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-## Our descrikption is linked to Nestjs community github.com
+## Our description is linked to Nestjs community github.com
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
