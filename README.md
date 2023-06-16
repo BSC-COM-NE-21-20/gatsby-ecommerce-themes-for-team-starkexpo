@@ -23,10 +23,12 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+## Our descrikption is linked to Nestjs community github.com
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
+## Provided By Spark Wilson Spink And Morris Gilbert
 
 ```bash
 $ npm install
@@ -62,12 +64,11 @@ $ npm run test:cov
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
+## Stay In Touch With Stark Expo
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
+- AuthorS - [SPARK WILSON SPINK & MORRIS GILBERT](https://starkexposition-agency.w3spaces.com)
+- Website - [STARK EXPOSITION M & AA](https://nestjs.com/)
+ 
 ## License
 
 Nest is [MIT licensed](LICENSE).
