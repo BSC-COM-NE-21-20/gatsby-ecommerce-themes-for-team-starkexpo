@@ -62,13 +62,13 @@ $ npm run test:cov
 
 ## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+Nest is an MIT-licensed open source project. It can grow and thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay In Touch With Stark Expo
 
-- AuthorS - [SPARK WILSON SPINK & MORRIS GILBERT](https://starkexposition-agency.w3spaces.com)
-- Website - [STARK EXPOSITION M & AA](https://starkexposition-agency.w3spaces.com/api)
-- our Backend Sample - [STARK EXPOSITION M & AA](https://starkexposition-agency.onrender.com)
+- Authors - [SPARK WILSON SPINK & MORRIS GILBERT](https://starkexposition-agency.w3spaces.com)
+- Website - [STARK EXPOSITION M & AA](https://starkexposition-agency.w3spaces.com/)
+- Our Backend Sample - [STARK EXPOSITION M & AA](https://starkexposition-agency.onrender.com/api)
  
 ## License
 
